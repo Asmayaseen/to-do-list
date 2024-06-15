@@ -1,0 +1,20 @@
+{
+  "name": "project-todo-list-by-asmakhan",
+  "version": "1.0.0",
+  "description": "todo list with typescript,node js,inquirer",
+  "main": "main.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "asma khan",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
